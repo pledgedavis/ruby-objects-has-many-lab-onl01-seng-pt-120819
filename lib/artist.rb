@@ -30,15 +30,15 @@ def add_song(song)
     add_song(song)
   end
   
-def self.song_count
-  # @@all.each do |artist|
-# artist
-Song.all.count
-# binding.pry
+# def self.song_count
+#   # @@all.each do |artist|
+# # artist
+# Song.all.count
+# # binding.pry
 
 
 
-end
+# end
  
  
  
